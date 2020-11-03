@@ -1,0 +1,17 @@
+img {
+    border-radius: 50%;
+}
+
+.FavoritePokemon {
+    margin-top: 150px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 64px;
+    
+}
+
+ul li {
+    padding-top: 0px;
+}
